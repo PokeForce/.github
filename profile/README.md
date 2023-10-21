@@ -1,7 +1,7 @@
 # Welcome to PokéForce!
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/953103964348506163/1108208438825209946/image.png" />
+  <img src="https://cdn.discordapp.com/attachments/961002027528380506/1162422702649381006/image.png?ex=65451c01&is=6532a701&hm=9e9f2a9bf42e7ff870d9d57bacd2e9ca10f76ed6500894af2e682fe03bb561f8&" />
   <br>
 </p>
 
