@@ -9,4 +9,4 @@ PokéForce is a semi-open source Pokémon MMORPG that is currently in the early 
 
 # Community
 
-- Discord: [PokéForce Discord](https://discord.gg/jDbBAKjhxh)
+- Discord: [PokéForce Discord](https://discord.gg/pokeforce)
